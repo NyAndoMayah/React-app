@@ -1,7 +1,7 @@
 import React from "react";
-import { NavLinkCollapsed } from "./navLinkCollapsed";
+import { NavLinkCollapsed } from './navLinkCollapsed';
 
-export function SideBar(props) {
+export function Sidebar() {
     return (
         <nav class="sb-sidenav accordion sb-sidenav-dark" id="sidenavAccordion">
             <div class="sb-sidenav-menu">
